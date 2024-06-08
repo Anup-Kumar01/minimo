@@ -50,7 +50,7 @@ header{
 	transition: 0.33s linear;
 }
 .menu ul li:last-child a{
-	padding-right: 0px;
+	margin-right: 0px;
 }
 .menu ul li a:hover{
 	border-bottom: 1px solid #626262;
